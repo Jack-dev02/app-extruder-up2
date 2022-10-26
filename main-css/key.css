@@ -91,17 +91,18 @@ html {
   box-shadow: rgb(61, 126, 201)  0px 0px 5px ;
 }
 
+.plato {
+  display: flex;
+  padding-left: 130px;
+}
+
+.charola {
+  display: flex;
+  padding-left: 200px ;
+}
 
 
-@media (max-width: 445px) {
-
-  .subtitulos {
-    display: none;
-  }
-
-  .name-list-none {
-    display: none;
-  }
+@media (max-width: 485px) {
 
   .main-title img {
   width: 400px;
