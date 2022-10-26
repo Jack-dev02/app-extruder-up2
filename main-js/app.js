@@ -8,11 +8,6 @@ const espesor1 = document.querySelector('#search-card-8');
 
 let clase = document.querySelector('.error1');
 
-// variables ocultar clase de lista de keys
-//let disable = document.querySelector('#disable');
-//let enable = document.querySelector();
-
-
 //variables unidas a las etiquetas html and boton
 bt.addEventListener('click', search);
 
