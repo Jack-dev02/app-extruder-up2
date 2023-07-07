@@ -53,10 +53,8 @@ let list = [
   {producto: '7X7', medida: '46"', peso: '95 - 98', espesor: '83 - 86'},
   {producto: '7X7 BIO', medida: '46"', peso: '95 - 98', espesor: '83 - 86'},
    //8 X 8
-  {producto: '8X8 EXT2', medida: '50"', peso: '95 - 98', espesor: '93 - 96'},
-  {producto: '8X8 EXT3', medida: '50"', peso: '95 - 98', espesor: '90 - 93'},
-  {producto: '8X8 BIO EXT2', medida: '50"', peso: '95 - 98', espesor: '93 - 96'},
-  {producto: '8X8 BIO EXT3', medida: '50"', peso: '95 - 98', espesor: '90 - 93'},
+  {producto: '8X8', medida: '50"', peso: '95 - 98', espesor: '93 - 96'},
+  {producto: '8X8 BIO', medida: '50"', peso: '95 - 98', espesor: '93 - 96'},
   //9 X 9
   {producto: '9X9', medida: '46"', peso: '95 - 98', espesor: '93 - 96'},
   {producto: '9X9 BIO', medida: '46"', peso: '95 - 98', espesor: '93 - 96'},
