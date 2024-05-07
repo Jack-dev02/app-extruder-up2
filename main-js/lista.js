@@ -2,7 +2,7 @@ let list = [
   // ********************CHAROLA**************************************************
   // 855
   {producto: '855 MAR', medida: '50" - 56"', peso: '58 - 61', espesor: '89 - 92'},
-  {producto: '855', medida: '50" - 56"', peso: '64 - 67', espesor: '95 - 98'},
+  {producto: '855 BIO', medida: '50" - 56"', peso: '64 - 67', espesor: '95 - 98'},
   {producto: '855 ROSA', medida: '56"', peso: '91 - 94', espesor: '100 - 103'},
   {producto: '855 REYMA', medida: '56"', peso: '83 - 86', espesor: '100 - 103'},
   {producto: '855 AMARILLO', medida: '56"', peso: '91 - 94', espesor: '100 - 103'},
