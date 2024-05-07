@@ -38,7 +38,7 @@ enter.addEventListener("keydown", (e) => {
 function search(){
   //let buscar = prompt('Buscar un dato: ');
   list.forEach(rollos => {
-    if(enter.value == rollos.producto){
+    if(enter.value === rollos.producto){
       /*alert(rollos.producto +' '+ 'peso ' + rollos.peso + ' ' + 'espesor' + ' ' + rollos.espesor);
       let producto = (rollos.producto+' '+ 'peso ' + rollos.peso + ' ' + 'espesor' + ' ' + rollos.espesor);*/
       let producto = (rollos.producto);
